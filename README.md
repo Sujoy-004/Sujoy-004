@@ -6,8 +6,8 @@
 ---
 
 ### 🔭 Currently Working On:
-- “**The Plan**” → a 12-month roadmap to master frontend, backend, AI, and DSA
-- Freelance-ready & internship-ready projects
+- mastering frontend, backend, AI, and DSA
+- internship-ready projects
 - Building my AI/ML project portfolio
 
 ### 💡 What I'm Learning:
