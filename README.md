@@ -1,40 +1,40 @@
-<h1 align="center">Hi 👋, I'm Sujoy Das</h1>
-<p align="center">
-  🚀 Full-Stack Developer in Progress • 🤖 AI/ML Enthusiast • 🇯🇵 Future Japan Scholar
-</p>
+### 👋 Hi, I'm Sujoy Das
+
+I'm a CSE student at KIIT (Batch of 2027), currently focused on building a solid foundation in Python, Data Analysis, and Machine Learning.
 
 ---
 
-### 🔭 Currently Working On:
-- mastering frontend, backend, AI, and DSA
-- internship-ready projects
-- Building my AI/ML project portfolio
-
-### 💡 What I'm Learning:
-- HTML, CSS, JavaScript, React, Next.js
-- Python, Flask, OpenAI API
-- Data Structures & Algorithms (DSA) in Python
-- ML (scikit-learn, pandas, NumPy)
-
-### 🧠 The Plan Includes:
-- 🧱 Frontend + Backend
-- 🤖 AI/ML + Prompt Engineering
-- 🧠 DSA Mastery
-- 💼 Paid Internships
-- 🎓 Japan MS Scholarship Track
+### 🎯 Current Focus
+- Completing hands-on ML projects using real-world datasets
+- Strengthening Python, Pandas, and data visualization skills
+- Learning DSA using Python (via NeetCode roadmap)
+- Building GitHub projects for internship readiness
 
 ---
 
-### 🌐 Connect with me:
-- LinkedIn: [linkedin.com/in/sujoydas](https://linkedin.com)
-- GitHub: [github.com/Sujoy-004](https://github.com/Sujoy-004)
-- Portfolio (coming soon...)
+### 🛠️ Skills So Far
+- Python, Pandas, Numpy
+- Matplotlib, Seaborn
+- Git, Google Colab
 
 ---
 
-### 📊 GitHub Stats
-![Sujoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujoy-004&show_icons=true&theme=radical)
+### 🧠 Learning Now
+- Scikit-learn, XGBoost (ML Basics)
+- HTML/CSS, GitHub workflow
+- Streamlit (soon for deploying ML projects)
 
 ---
 
-⭐ _"Building consistency, not perfection. One project at a time."_  
+### 📈 Projects (WIP & Completed)
+- 🩺 Diabetes Risk Prediction (ML, XGBoost, EDA)
+- 🚨 911 Calls Capstone (Pandas + Matplotlib)
+- 📊 Upcoming: Titanic ML, Stock Price Analysis
+
+---
+
+### 📫 Connect With Me
+- 🔗 [GitHub](https://github.com/Sujoy-004)
+- 🔗 [LinkedIn](https://linkedin.com)
+
+---
