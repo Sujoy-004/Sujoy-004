@@ -7,8 +7,7 @@ I'm a CSE student at KIIT (Batch of 2027), currently focused on building a solid
 ### 🎯 Current Focus
 - Completing hands-on ML projects using real-world datasets
 - Strengthening Python, Pandas, and data visualization skills
-- Learning DSA using Python (via NeetCode roadmap)
-- Building GitHub projects for internship readiness
+- Building GitHub projects
 
 ---
 
@@ -21,7 +20,7 @@ I'm a CSE student at KIIT (Batch of 2027), currently focused on building a solid
 
 ### 🧠 Learning Now
 - Scikit-learn, XGBoost (ML Basics)
-- HTML/CSS, GitHub workflow
+- GitHub workflow
 - Streamlit (soon for deploying ML projects)
 
 ---
@@ -35,6 +34,6 @@ I'm a CSE student at KIIT (Batch of 2027), currently focused on building a solid
 
 ### 📫 Connect With Me
 - 🔗 [GitHub](https://github.com/Sujoy-004)
-- 🔗 [LinkedIn](https://linkedin.com)
+- 🔗 [LinkedIn](www.linkedin.com/in/sujoydas004)
 
 ---
