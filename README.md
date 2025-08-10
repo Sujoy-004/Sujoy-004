@@ -26,9 +26,9 @@ I'm a CSE student at KIIT (Batch of 2027), currently focused on building a solid
 ---
 
 ### 📈 Projects (WIP & Completed)
-- 🩺 Diabetes Risk Prediction (ML, XGBoost, EDA)
-- 🚨 911 Calls Capstone (Pandas + Matplotlib)
-- 📊 Upcoming: Titanic ML, Stock Price Analysis
+- 🩺 Diabetes Risk Prediction – Built an ML model using XGBoost to predict diabetes risk based on medical data; includes EDA, feature engineering, and performance evaluation.
+- 🎵 Spotify Global Analysis – Analyzed top songs across countries using Pandas & Seaborn to uncover trends in music popularity, genre distribution, and artist reach.
+- 🌾 Crop Yield Prediction – Developed regression models to forecast crop yield using historical agricultural data; compared multiple ML algorithms for accuracy and reliability.
 
 ---
 
