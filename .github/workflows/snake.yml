@@ -20,10 +20,10 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Sujoy-004
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23ff4da6&color_dots=%2315141d,%2335204f,%235b2d82,%239d4edd,%23ff7ad9
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff4da6&color_dots=%2315141d,%2335204f,%235b2d82,%239d4edd,%23ff7ad9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
