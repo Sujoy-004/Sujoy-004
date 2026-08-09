@@ -1,103 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sujoy%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2B%20ML%20Builder%20%7C%20B.Tech%20CSE%2C%20KIIT&descAlignY=58&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/main/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/main/assets/banner-light.png">
+  <img alt="Banner" src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/main/assets/banner-light.png" width="100%">
+</picture>
 
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+<br><br>
 
-</div>
+# Hey there, I'm Sujoy Das 👋
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4EA4CC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%40+KIIT+University;Building+full-stack+ML-integrated+projects;Working+on+Scentrix+%E2%80%94+fragrance+recommender+ML;AI-agent-directed+development" alt="Typing SVG" />
 
-### About
+<br>
 
-B.Tech Computer Science & Engineering student at KIIT University, Bhubaneswar (CGPA 8.29, Class of 2027). I build full-stack, ML-integrated products end to end — not tutorials, not clones. My current focus is applied graph learning for recommendation systems.
-
-I work primarily by directing AI coding agents rather than hand-typing every line, and treat that as a real engineering skill: system design, prompt architecture, and rigorous verification of what the agent produces, rather than trusting it blind.
-
-- 🔭 Currently building **Scentrix** — a fragrance recommender combining graph neural networks with content-based filtering
-- 🧠 Went deep on GraphSAGE this year: diagnosed a cold-start graph-construction bug that was silently tanking ranking quality by 63%, then fixed it
-- 🛠️ Converting a Jupyter-notebook analysis tool into a proper CLI product
-- 🎮 Side project: a first-person archery game built from scratch on HTML canvas — real projectile physics, not a sprite flip
-
----
-
-### Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+[![Followers](https://img.shields.io/github/followers/Sujoy-004?label=Followers&style=for-the-badge&color=1A3F75&labelColor=00002A)](https://github.com/Sujoy-004?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Sujoy-004?label=Stars&style=for-the-badge&color=4E6A9C&labelColor=00002A)](https://github.com/Sujoy-004?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sujoy-004&label=Profile+Views&style=for-the-badge&color=4EA4CC&labelColor=00002A)](https://github.com/Sujoy-004)
 
 </div>
 
----
+<br>
 
-### Featured Work
+## 🧑‍💻 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-**🧪 Scentrix**
-Graph-based fragrance recommendation engine. GraphSAGE-Jaccard cold-start model, quiz-based reranking, feature-similarity fallback for warm users. Trained on 22K+ fragrance records across 24 luxury brands.
-Key result: fixed a broken graph-construction method that was degrading recommendation quality (NDCG) by 63% — replacing KNN embedding edges with Jaccard note-overlap edges recovered a 2.7× improvement.
-`Python` `FastAPI` `PyTorch` `Next.js` `PostgreSQL`
-[Repo →](YOUR_SCENTRIX_REPO_LINK)
-
-</td>
-<td width="50%" valign="top">
-
-**🏹 Archery POV**
-A first-person archery game as a self-contained HTML canvas widget. Real draw/release physics and pointer-based aiming, built and debugged iteratively rather than assembled from a game engine template.
-`JavaScript` `Canvas API`
-[Repo →](YOUR_ARCHERY_REPO_LINK)
+- 🎓 B.Tech in Computer Science & Engineering at **KIIT University**, Bhubaneswar (Class of 2027)
+- 🧪 Building full-stack, ML-integrated projects independently — architecture-first, AI-agent-directed development
+- 🔬 Currently working on **Scentrix**, a full-stack fragrance recommendation platform with a GraphSAGE-based ML pipeline
+- 🕹️ Also exploring 3D/canvas game development (first-person archery game on HTML Canvas)
+- 📦 Past builds: JobLens, KaamConnect, and a La Liga match prediction project
+- 📫 Reach me at **iamsujoy004@gmail.com**
+- ⚡ Fun fact: [YOUR_FUN_FACT]
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💼 JobLens**
-Full-stack job-matching / analysis tool.
-`Full-Stack` `ML`
-[Repo →](YOUR_JOBLENS_REPO_LINK)
-
-</td>
-<td width="50%" valign="top">
-
-**⚽ La Liga Match Predictor**
-Full-stack ML app predicting match outcomes from historical data.
-`Full-Stack` `ML`
-[Repo →](YOUR_LALIGA_REPO_LINK)
-
+<td width="35%" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/main/assets/profile.png" width="90%" alt="Profile visual">
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sujoy-004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujoy-004&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Sujoy-004&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,nextjs,react,postgres,redis,docker,js,ts,html,css,nodejs,git,linux,vscode&theme=dark" />
 
 </div>
 
----
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujoy-004&theme=default&background=00002A&border=1A3F75&stroke=1A3F75&ring=4E6A9C&fire=4EA4CC&currStreakLabel=4EA4CC&sideLabels=4EA4CC&dates=4E6A9C" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujoy-004&bg_color=00002A&color=4EA4CC&line=4E6A9C&point=4EA4CC&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!--END_SECTION:snake-->
+
+</div>
+
+<!--
+  GitHub Action to auto-generate the snake above (add as .github/workflows/snake.yml):
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Sujoy-004
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<br>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A3F75?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
+[![X](https://img.shields.io/badge/X-00002A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/[YOUR_X_HANDLE])
+[![Instagram](https://img.shields.io/badge/Instagram-4E6A9C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[YOUR_INSTAGRAM])
+[![TikTok](https://img.shields.io/badge/TikTok-1A3F75?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@[YOUR_TIKTOK])
+[![YouTube](https://img.shields.io/badge/YouTube-00002A?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@[YOUR_YOUTUBE])
+[![Email](https://img.shields.io/badge/Email-4EA4CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamsujoy004@gmail.com)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
+
 </div>
