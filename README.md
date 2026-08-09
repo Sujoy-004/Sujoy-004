@@ -1,47 +1,50 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00002A,50:1A3F75,100:44E6A9&height=220&section=header&text=Hey%20there,%20I'm%20Sujoy%20Das%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Machine%20Learning%20%26%20Recommendation%20Systems&descAlignY=58&descSize=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4EA4CC,50:1A3F75,100:00002A&height=220&section=header&text=Hey%20there,%20I'm%20Sujoy%20Das%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Machine%20Learning%20%26%20Recommendation%20Systems&descAlignY=58&descSize=16">
-  <img alt="header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:00002A,50:1A3F75,100:44E6A9&height=220&section=header&text=Hey%20there,%20I'm%20Sujoy%20Das%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Machine%20Learning%20%26%20Recommendation%20Systems&descAlignY=58&descSize=16" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f2328,100:59636e&height=210&section=header&text=Hey%20there%2C%20I'm%20Sujoy&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20ML%20%26%20Recommendation%20Systems&descAlignY=58&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:343a40,100:adb5bd&height=210&section=header&text=Hey%20there%2C%20I'm%20Sujoy&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20ML%20%26%20Recommendation%20Systems&descAlignY=58&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:343a40,100:adb5bd&height=210&section=header&text=Hey%20there%2C%20I'm%20Sujoy&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20ML%20%26%20Recommendation%20Systems&descAlignY=58&descSize=18" width="100%"/>
 </picture>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=44E6A9&center=true&vCenter=true&width=560&lines=B.Tech+CSE+%40+KIIT+University;Building+Scentrix+%E2%80%94+GNN-based+recommender;Currently+improving+DSA+daily;Directing+AI+agents%2C+verifying+every+line" alt="Typing SVG"/></a>
+<a href="mailto:iamsujoy004@gmail.com"><img src="https://img.shields.io/badge/Email-343A40?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Sujoy-004"><img src="https://img.shields.io/badge/GitHub-212529?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/_g.o.h.a.n._"><img src="https://img.shields.io/badge/Instagram-495057?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<br/>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sujoy-004&style=for-the-badge&color=1A3F75&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Sujoy-004?style=for-the-badge&color=44E6A9&labelColor=00002A)
-![Stars](https://img.shields.io/github/stars/Sujoy-004?style=for-the-badge&color=4EA4CC&labelColor=00002A)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=6C757D&center=true&vCenter=true&width=700&lines=Building+full-stack+%2B+ML+products;Recommendation+systems+%7C+Graph+Learning;Monte+Carlo+simulation+%7C+Applied+ML;Engineering+systems+that+can+actually+ship" alt="Typing SVG"/>
 
-<a href="mailto:iamsujoy004@gmail.com"><img src="https://img.shields.io/badge/Email-1A3F75?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://docs.google.com/document/d/1Jjh0JEKHVGkKA_Kd75UwuN6cf8czL4V5/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-00002A?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+<br><br>
 
-<!-- LinkedIn/X/Instagram/TikTok/YouTube dropped — none exist/are public yet. Add back when real. -->
+<img src="https://img.shields.io/github/followers/Sujoy-004?style=for-the-badge&label=Followers&color=6C757D">
+<img src="https://img.shields.io/github/stars/Sujoy-004?style=for-the-badge&label=Stars&color=868E96">
+<img src="https://komarev.com/ghpvc/?username=Sujoy-004&style=for-the-badge&color=495057&label=Profile+Views">
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## ◆ About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-B.Tech Computer Science & Engineering student at KIIT University, Bhubaneswar (CGPA 8.29, Class of 2027).
+I'm **Sujoy Das**, a Computer Science & Engineering student at **KIIT University, Bhubaneswar**, focused on building full-stack and machine-learning systems end to end.
 
-I build full-stack, ML-integrated products end to end. Current focus is applied graph learning for recommendation systems.
+My current technical focus is **applied graph learning and recommendation systems**, with hands-on work spanning GraphSAGE, ensemble models, explainable ML, Monte Carlo simulation, FastAPI, Next.js, PostgreSQL, and Docker.
 
-- 🔭 Currently building **Scentrix** — a fragrance recommender combining graph neural networks with content-based filtering
-- 🧠 Diagnosed and fixed a cold-start graph-construction bug in GraphSAGE that was degrading recommendation quality by 63%
-- 📚 Currently improving DSA — [Sujoy-004/DSA](https://github.com/Sujoy-004/DSA)
-- 🤖 Work primarily by directing AI coding agents — system design and verification, not blind acceptance
+-  B.Tech CSE — KIIT University, 2023–2027
+-  CGPA: **8.29 / 10.0**
+-  Built and debugged production-style ML pipelines rather than isolated notebooks
+-  Redesigned Scentrix's graph construction using Jaccard similarity, improving NDCG **2.7×**
+-  Built a multi-signal football prediction engine with **1,100+ automated tests**
+-  Use AI coding agents as engineering tools, with emphasis on system design, prompts, testing, and verification
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="PLACEHOLDER_IMAGE_URL" width="220" style="border-radius:12px;" alt="profile image placeholder"/>
+<img src="https://github.com/Sujoy-004.png" width="220" alt="Sujoy Das"/>
 
 </td>
 </tr>
@@ -49,43 +52,89 @@ I build full-stack, ML-integrated products end to end. Current focus is applied 
 
 ---
 
-### 🛠️ Tech Stack
+## ◆ Tech Stack
 
 <div align="center">
 
-<!-- PLACEHOLDER: swap this icon list for your exact resume stack once you paste it — do not keep as-is -->
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,nextjs,react,postgres,redis,docker&theme=dark" />
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql&theme=dark" />
+
+### Backend & Web
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,spring,html,css&theme=dark" />
+
+### ML / AI
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+
+<br>
+
+**XGBoost · LightGBM · CatBoost · GraphSAGE · BERT · LLM APIs · SHAP**
+
+### Data & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,github,git&theme=dark" />
 
 </div>
 
 ---
 
-### 🎯 Featured Work
+## ◆ Featured Work
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🧪 Scentrix**
-PLACEHOLDER_SCENTRIX_ONE_LINER — pending your answer.
-`Python` `FastAPI` `PyTorch` `Next.js` `PostgreSQL`
-[Repo →](YOUR_SCENTRIX_REPO_LINK)
+### ◈ Scentrix
 
-</td>
-<td width="33%" valign="top">
+A full-stack **cold-start recommendation system** built around a 5-state dispatcher — from anonymous popularity to GraphSAGE-powered preference initialization and feature-based recommendation with diversity.
 
-**💬 Chat Analyzer Pro**
-PLACEHOLDER_CHATANALYZER_ONE_LINER — pending your answer.
-`Full-Stack` `ML`
-[Repo →](YOUR_CHATANALYZER_REPO_LINK)
+The engineering story is the interesting part: **4,559 quality-filtered fragrances, 16K+ graph edges, 160 backend tests, Playwright E2E coverage, and load testing at 20 concurrent users with 0 true errors.**
+
+`GraphSAGE` `PyTorch` `FastAPI` `Next.js` `PostgreSQL` `Docker`
+
+[**View Repository →**](https://github.com/Sujoy-004/Scentrix)
 
 </td>
-<td width="33%" valign="top">
 
-**⚽ Football / La Liga Predictor**
-PLACEHOLDER_FOOTBALL_ONE_LINER — pending your answer.
-`Full-Stack` `ML`
-[Repo →](YOUR_LALIGA_REPO_LINK)
+<td width="50%" valign="top">
+
+### ◈ FOOTBALL
+
+A **Monte Carlo tournament prediction engine** covering the 2026 World Cup and 2025/26 Champions League through a unified FastAPI dashboard.
+
+The World Cup engine models a 48-team tournament with **8 blended prediction signals**, live data providers, calibration metrics, async simulation, and **614 competition tests + 109 shared-engine tests**.
+
+`Monte Carlo` `Elo` `CatBoost` `FastAPI` `NumPy` `Python`
+
+[**View Repository →**](https://github.com/Sujoy-004/FOOTBALL)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Chat Analyzer Pro
+
+A **local-first conversation intelligence CLI** that turns WhatsApp and Telegram exports into a self-contained HTML analysis report — without accounts, servers, telemetry, or uploading chat data.
+
+One command runs the pipeline across **message statistics, activity trends, sentiment, relationship analysis, conversation networks, and optional local NLP narratives**.
+
+`Python` `NLP` `Pandas` `CLI` `HTML` `Local-first`
+
+[**View Repository →**](https://github.com/Sujoy-004/Chat-Analyzer-Pro)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ DSA
+
+A continuously built **interview-preparation repository** containing LeetCode solutions organized by problem-solving patterns rather than a random list of questions.
+
+The repository spans **arrays, two pointers, sliding window, hash tables, linked lists, binary search, dynamic programming, prefix sums, recursion, stacks, queues, and more** — forming a practical record of algorithmic problem solving.
+
+`Java` `LeetCode` `DSA` `Algorithms` `Problem Solving`
+
+[**View Repository →**](https://github.com/Sujoy-004/DSA)
 
 </td>
 </tr>
@@ -93,29 +142,63 @@ PLACEHOLDER_FOOTBALL_ONE_LINER — pending your answer.
 
 ---
 
-### 📊 GitHub Activity
+## ◆ Other Projects
+
+| Project | What it does |
+|---|---|
+| **La Liga Match Predictor** | Calibrated football prediction system using Random Forest, XGBoost, and LightGBM with SHAP-based explainability and a live dashboard |
+| **JobLens** | Salary prediction and job-market analytics using a 3,755-record public salary dataset |
+| **Indian Crop Yield Prediction** | Regression pipeline over 19,689 agricultural records from 1997–2021 |
+| **Diabetes Risk Prediction** | Classification pipeline using scikit-learn on medical diagnostic data |
+| **AI Customer Support Agent** | Conversational commerce agent prototype for the Kasparro Agentic Commerce Hackathon 2026 |
+| **KaamConnect** | Six-language job-matching platform for informal-sector workers |
+
+---
+
+## ◆ GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Sujoy-004&background=00002A&ring=44E6A9&fire=44E6A9&currStreakLabel=44E6A9&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4EA4CC&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sujoy-004&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujoy-004&layout=compact&theme=graywhite&hide_border=true" width="40%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujoy-004&bg_color=00002A&color=4EA4CC&line=44E6A9&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sujoy-004&theme=algolia&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=Sujoy-004&theme=graywhite&hide_border=true" width="60%"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujoy-004&bg_color=ffffff&color=495057&line=6c757d&point=343a40&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<!--
-Contribution snake — requires a one-time GitHub Action setup:
-1. Create .github/workflows/snake.yml in this repo with the Platane/snk action
-2. It generates dist/github-contribution-grid-snake.svg on a schedule
-3. Then embed it below as:
-<img src="https://raw.githubusercontent.com/Sujoy-004/Sujoy-004/output/github-contribution-grid-snake.svg" width="100%"/>
-Not embedded yet since the Action hasn't run — embedding now would 404.
--->
+---
+
+## ◆ Contribution Snake
+
+<div align="center">
+
+<!-- Contribution Snake: generated by GitHub Actions -->
+<img src="https://raw.githubusercontent.com/Sujoy-004/Sujoy-004/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## ◆ Connect
+
+<div align="center">
+
+<a href="https://github.com/Sujoy-004"><img src="https://img.shields.io/badge/GitHub-212529?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/_g.o.h.a.n._"><img src="https://img.shields.io/badge/Instagram-495057?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:iamsujoy004@gmail.com"><img src="https://img.shields.io/badge/Email-343A40?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,100:FF3E8E&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:343a40,100:adb5bd&height=110&section=footer" width="100%"/>
+
 </div>
