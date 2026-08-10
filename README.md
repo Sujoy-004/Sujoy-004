@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:111318,100:5f6772&height=210&section=header&text=Sujoy%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20ML%20%2B%20Recommendation%20Systems&descAlignY=58&descSize=18">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:343A40,100:7A838D&height=210&section=header&text=Sujoy%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20ML%20%2B%20Recommendation%20Systems&descAlignY=58&descSize=18">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1f2328,100:8b939c&height=210&section=header&text=Sujoy%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20ML%20%2B%20Recommendation%20Systems&descAlignY=58&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111318,100:5f6772&height=210&section=header&text=Sujoy%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20ML%20%2B%20Recommendation%20Systems&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:343A40,100:7A838D&height=210&section=header&text=Sujoy%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20ML%20%2B%20Recommendation%20Systems&descAlignY=58&descSize=18" width="100%"/>
 </picture>
 
 <a href="mailto:iamsujoy004@gmail.com"><img src="https://img.shields.io/badge/Email-343A40?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -178,6 +178,7 @@ A structured interview-prep repository built around pattern-based LeetCode pract
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111318,100:5f6772&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:343A40,100:7A838D&height=110&section=footer" width="100%"/>
 
 </div>
+
