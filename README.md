@@ -130,36 +130,9 @@ A structured interview-prep repository built around pattern-based LeetCode pract
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Sujoy-004/Sujoy-004/output/github-streak-stats.svg" alt="GitHub contribution streak statistics" width="600"/>
 
-### 311
-**Total Contributions**
-
-`Jul 28, 2024 — Present`
-
-</td>
-<td align="center" width="33%">
-
-### 0
-**Current Streak**
-
-`Aug 9`
-
-</td>
-<td align="center" width="33%">
-
-### 4
-**Longest Streak**
-
-`Nov 27 — Nov 30, 2025`
-
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 **Contribution Rhythm**
 
