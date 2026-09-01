@@ -10,6 +10,13 @@
 <a href="https://github.com/Sujoy-004"><img src="https://img.shields.io/badge/GitHub-212529?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/_g.o.h.a.n._"><img src="https://img.shields.io/badge/Instagram-495057?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+<br><br>
+
+<a href="https://github.com/Sujoy-004?tab=followers"><img src="https://img.shields.io/github/followers/Sujoy-004?label=Followers&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Sujoy-004?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSujoy-004&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white&color=495057"></a>
+<a href="https://github.com/Sujoy-004?tab=stars"><img src="https://img.shields.io/github/stars/Sujoy-004?affiliations=OWNER&label=Repo%20Stars&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Sujoy-004/Sujoy-004/actions/workflows/snake.yml"><img src="https://img.shields.io/github/actions/workflow/status/Sujoy-004/Sujoy-004/snake.yml?branch=main&label=Snake%20Workflow&style=for-the-badge&logo=githubactions&logoColor=white"></a>
+
 </div>
 
 ---
