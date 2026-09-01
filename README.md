@@ -57,11 +57,11 @@ I care about shipping working systems, not notebook demos. My workflow is engine
 
 ### ◈ Scentrix
 
-A full-stack fragrance discovery platform with a **5-state recommendation dispatcher** that moves from anonymous popularity to quiz-based GraphSAGE routing, hybrid cold-start blending, feature-based ranking, and diversity-aware mature recommendations.
+A full-stack fragrance discovery platform built around a **3-state recommendation dispatcher** for cold-start personalization: anonymous popularity, GraphSAGE user-vector + KNN recommendations after a quiz or ratings, and warm feature-based Jaccard scoring.
 
-The strongest part is the engineering result: **GraphSAGE preference initialization**, a Jaccard-based graph rewrite, **160 backend tests**, Playwright E2E coverage, and load testing at **20 concurrent users** with no true errors.
+The strongest engineering pieces are precomputed 64-dimensional GraphSAGE embeddings over a **4,559-fragrance catalog**, a Jaccard-similarity graph, and a safe popularity fallback when personalization cannot produce results. The app runs with FastAPI, Next.js, and SQLite, with no external runtime infrastructure.
 
-`Python` `FastAPI` `PyTorch` `GraphSAGE` `Next.js` `PostgreSQL` `Docker`
+`Python` `FastAPI` `PyTorch` `GraphSAGE` `Next.js` `SQLite` `NumPy`
 
 [**View Repository →**](https://github.com/Sujoy-004/Scentrix)
 
@@ -70,11 +70,11 @@ The strongest part is the engineering result: **GraphSAGE preference initializat
 
 ### ◈ FOOTBALL
 
-A Monte Carlo tournament engine for **World Cup 2026** and **UCL 2025/26**, served through a FastAPI dashboard with live polling, async tasks, and blended prediction signals.
+A shared football prediction and Monte Carlo simulation engine for **World Cup 2026** and **UEFA Champions League 2026/27**, with competition-specific rules, async FastAPI dashboards, and explicit provenance for real versus simulated data.
 
-The World Cup system models a 48-team tournament and blends **8 signals** including Elo, market odds, CatBoost, form, lineup, availability, defensive quality, and manager effect. The repo also carries **614 World Cup tests** and **109 shared-engine tests**.
+It separates immutable played matches from unresolved outcomes, supports seeded and reproducible simulations, and blends **5 signals**: refined Elo, market odds, rolling form, squad value, and rest days. The current suite reports **1,259 passed and 1 skipped tests**.
 
-`Monte Carlo` `Elo` `CatBoost` `FastAPI` `NumPy` `Python`
+`Monte Carlo` `Elo` `FastAPI` `NumPy` `Python`
 
 [**View Repository →**](https://github.com/Sujoy-004/FOOTBALL)
 
@@ -88,7 +88,7 @@ The World Cup system models a 48-team tournament and blends **8 signals** includ
 
 A local-first CLI that turns WhatsApp `.txt`, Telegram `.json`, or `.zip` exports into terminal insights plus a self-contained HTML report, entirely on-device.
 
-It covers message statistics, participants, activity trends, sentiment, relationship analysis, conversation graphs, and an optional local NLP narrative layer — without accounts, servers, or telemetry.
+It covers message statistics, activity trends, sentiment, relationship health, interaction networks, offline 3D charts, and optional NLP tiers for emotion classification and narrative insights. Everything runs locally, without accounts, uploads, servers, or telemetry.
 
 `Python` `NLP` `Pandas` `CLI` `HTML` `Local-first`
 
@@ -99,7 +99,7 @@ It covers message statistics, participants, activity trends, sentiment, relation
 
 ### ◈ DSA
 
-A structured interview-prep repository built around pattern-based LeetCode practice, not random problem dumping. The coverage spans arrays, two pointers, sliding window, hash tables, linked lists, binary search, sorting, stack, recursion, DP, prefix sum, queue, and more.
+A LeetCode practice repository organized by topics including arrays, two pointers, sliding window, hash tables, linked lists, binary search, sorting, dynamic programming, SQL, and more.
 
 `Java` `LeetCode` `DSA` `Algorithms` `Problem Solving`
 
