@@ -118,18 +118,6 @@ A LeetCode practice repository organized by topics including arrays, two pointer
 
 ---
 
-## ◆ Other Projects
-
-| Project | What it does |
-|---|---|
-| **La Liga Match Predictor** | Calibrated football prediction system using Random Forest, XGBoost, and LightGBM with SHAP-based explainability and a live dashboard |
-| **JobLens** | Salary prediction and job-market analytics using a 3,755-record public salary dataset |
-| **Indian Crop Yield Prediction** | Regression pipeline over 19,689 agricultural records from 1997–2021 |
-| **Diabetes Risk Prediction** | Classification pipeline using scikit-learn on medical diagnostic data |
-| **AI Customer Support Agent** | Conversational commerce agent prototype for the Kasparro Agentic Commerce Hackathon 2026 |
-| **KaamConnect** | Six-language job-matching platform for informal-sector workers; led presentation and stakeholder communication |
-
----
 
 <div align="center">
 
