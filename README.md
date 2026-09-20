@@ -143,7 +143,7 @@ A LeetCode practice repository organized by topics including arrays, two pointer
 
 **Contribution Rhythm**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujoy-004&bg_color=111318&color=d9dde2&line=9aa3ad&point=f1f3f5&area=true&area_color=59636e&hide_border=true" width="96%"/>
+<img src="https://raw.githubusercontent.com/Sujoy-004/Sujoy-004/output/github-activity-graph.svg" width="96%"/>
 
 <br>
 

@@ -38,6 +38,14 @@ jobs:
           path: dist/github-streak-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate contribution rhythm graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=111318&color=d9dde2&line=9aa3ad&point=f1f3f5&area=true&area_color=59636e&hide_border=true
+          output_path: dist/github-activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Publish generated assets
         uses: crazy-max/ghaction-github-pages@v4
         with:
